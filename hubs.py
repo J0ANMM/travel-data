@@ -1,4 +1,4 @@
-    def hubs_dict(self):
+    def hubs_dict():
         """Create list of dicts for hubs, including all hubs (airports, train stations, bus stations & ferry terminals) for all European cities with an Airport or with a population larger than 100.000 inhabitants.
 
             'point' digit is assigned manually and is specific for each hub.
