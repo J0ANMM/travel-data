@@ -1,4 +1,4 @@
-    def cities_dict(self):
+    def cities_dict():
         """List of dictionaries, being each element of the list one city."""
 
         #for city codes see https://www.unece.org/fileadmin/DAM/cefact/locode/de.htm
