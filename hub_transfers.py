@@ -1,4 +1,4 @@
-"""Create list of dicts with time transfer between all hubs of one European city."""
+"""Create list of dicts with time transfer between all hubs of each European city (city with more than 100.000 inhabitants or with an airport)."""
 
 transfers_raw_one_dir_DE = [
     {'city': 'DE-AAH', 'orig_hub': '01-1', 'dest_hub': '01-1', 'trip_duration':  0, 'freq':  0},
