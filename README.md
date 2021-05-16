@@ -4,7 +4,7 @@ The data provided in this repository was gathered under the scope of the develop
 
 The search engine has been discontinued, so the data is not maintained anymore. Therefore, there might be instances that are out-of-date. 
 
-There was a lot of manual effort to gather all the data, so hopefully, even if it is not updated, this might be now usefull to somebody else.
+There was a lot of manual effort to gather all the data, so hopefully, even if it is not updated, this might be now useful to somebody else.
 
 For information about transportation carbon emissions, see the following repository:
 * https://github.com/J0ANMM/carbon-calculator
